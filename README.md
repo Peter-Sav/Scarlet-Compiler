@@ -25,7 +25,7 @@ Scarlet contains.
 
 ## • Comments ( /* , */ , // )
 
-Reserved words.
+# Reserved words
 program, endprogram
 declare
 if , then , else , endif
