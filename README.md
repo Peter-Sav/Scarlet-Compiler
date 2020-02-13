@@ -21,7 +21,7 @@ Scarlet contains.
 
 ## • Separators («;», «,», «:»)
 
-- Brackets «(»,«)»,«[»,«]»
+## Brackets «(»,«)»,«[»,«]»
 
 ## • Comments ( /* , */ , // )
 
