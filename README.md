@@ -41,9 +41,13 @@ input , print
 # Grammar
 
 <program> ::= **program** id <block> **endprogram**
+#
 <block> ::= <declarations> <subprograms> <statements>
+#
 <declarations> ::= ( **declare** <varlist> ; )*
+#
 <varlist> ::= ε | id ( , id )*
+#
 <subprograms> ::= ( <subprogram> ) *
 <subprogram> ::= **function** id <funcbody> **endfunction**
 <funcbody> ::= <formalpars> <block>
