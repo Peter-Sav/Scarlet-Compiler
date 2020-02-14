@@ -25,8 +25,8 @@ Scarlet contains.
 
 ## • Comments ( /* , */ , // )
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton1.png)
+![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton2.png)
 # Reserved words
 program, endprogram
 declare
@@ -39,8 +39,8 @@ and , or , not
 input , print
 
 # Grammar
-![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/grammar/grammar1.PNG)
-![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/grammar/grammar2.PNG)
+![alt text]()
+![alt text]()
 # Tests
 
 There are some test used during the assignment to make sure everything was working fine. From the parser generator ,
