@@ -36,7 +36,7 @@ function , endfunction , return , in , inout , inandout
 and , or , not
 input , print
 
-
+![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton1.png)
 
 # Grammar
 
