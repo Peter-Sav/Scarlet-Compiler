@@ -25,9 +25,8 @@ Scarlet contains.
 
 ## • Comments ( /* , */ , // )
 
-![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton1.png)
-![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton2.png)
-
+![alt text]()
+![alt text]()
 # Reserved words
 program, endprogram
 declare
