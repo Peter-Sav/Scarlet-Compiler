@@ -25,6 +25,9 @@ Scarlet contains.
 
 ## • Comments ( /* , */ , // )
 
+![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton1.png)
+![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton2.png)
+
 # Reserved words
 program, endprogram
 declare
@@ -35,8 +38,6 @@ forcase , endforcase , incase , endincase , when , default , enddefault
 function , endfunction , return , in , inout , inandout
 and , or , not
 input , print
-
-![alt text](https://github.com/Peter-Sav/Scarlet-Compiler/blob/master/automaton/automaton1.png)
 
 # Grammar
 
